@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Edge Chromium 133.0.3065.59,,,20-02-2025 12:59:46,20-02-2025 13:00:45,"58,967s",PASSED
+,,,,,,,
+Test Cases/CP_GIT,Edge Chromium 133.0.3065.59,,,20-02-2025 12:59:46,20-02-2025 13:00:45,"58,734s",PASSED
+"openBrowser("""")",Edge Chromium 133.0.3065.59,,,20-02-2025 12:59:46,20-02-2025 13:00:07,"20,201s",PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:07,20-02-2025 13:00:24,"16,969s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/a_Make Appointment""))",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:24,20-02-2025 13:00:27,"3,623s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:27,20-02-2025 13:00:28,"1,251s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:28,20-02-2025 13:00:35,"6,701s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/form_Demo account                          _b80bac""))",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:35,20-02-2025 13:00:35,"0,337s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:35,20-02-2025 13:00:36,"0,371s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:36,20-02-2025 13:00:37,"0,780s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/textarea_Comment_comment""), ""prueba git"")",Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:37,20-02-2025 13:00:38,"0,994s",PASSED
+closeBrowser(),Edge Chromium 133.0.3065.59,,,20-02-2025 13:00:38,20-02-2025 13:00:45,"7,216s",PASSED

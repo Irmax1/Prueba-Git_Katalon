@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 132.0.6834.197,,,18-02-2025 17:04:24,18-02-2025 17:04:59,"34,986s",PASSED
+,,,,,,,
+Test Cases/CP_GIT,Chrome 132.0.6834.197,,,18-02-2025 17:04:24,18-02-2025 17:04:59,"34,397s",PASSED
+"openBrowser("""")",Chrome 132.0.6834.197,,,18-02-2025 17:04:25,18-02-2025 17:04:49,"23,591s",PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 132.0.6834.197,,,18-02-2025 17:04:49,18-02-2025 17:04:50,"1,549s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 132.0.6834.197,,,18-02-2025 17:04:50,18-02-2025 17:04:51,"1,162s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 132.0.6834.197,,,18-02-2025 17:04:51,18-02-2025 17:04:52,"1,204s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 132.0.6834.197,,,18-02-2025 17:04:52,18-02-2025 17:04:54,"1,057s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/form_Demo account                          _b80bac""))",Chrome 132.0.6834.197,,,18-02-2025 17:04:54,18-02-2025 17:04:54,"0,647s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 132.0.6834.197,,,18-02-2025 17:04:54,18-02-2025 17:04:55,"0,641s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 132.0.6834.197,,,18-02-2025 17:04:55,18-02-2025 17:04:55,"0,630s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/textarea_Comment_comment""), ""prueba git"")",Chrome 132.0.6834.197,,,18-02-2025 17:04:55,18-02-2025 17:04:56,"1,009s",PASSED
+closeBrowser(),Chrome 132.0.6834.197,,,18-02-2025 17:04:56,18-02-2025 17:04:59,"2,231s",PASSED

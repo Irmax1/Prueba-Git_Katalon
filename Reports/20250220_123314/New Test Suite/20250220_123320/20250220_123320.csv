@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 133.0.6943.126,,,20-02-2025 12:33:25,20-02-2025 12:33:43,"17,955s",PASSED
+,,,,,,,
+Test Cases/CP_GIT,Chrome 133.0.6943.126,,,20-02-2025 12:33:26,20-02-2025 12:33:43,"17,576s",PASSED
+"openBrowser("""")",Chrome 133.0.6943.126,,,20-02-2025 12:33:26,20-02-2025 12:33:30,"4,405s",PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 133.0.6943.126,,,20-02-2025 12:33:30,20-02-2025 12:33:38,"7,954s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 133.0.6943.126,,,20-02-2025 12:33:38,20-02-2025 12:33:39,"0,654s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 133.0.6943.126,,,20-02-2025 12:33:39,20-02-2025 12:33:40,"0,790s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 133.0.6943.126,,,20-02-2025 12:33:40,20-02-2025 12:33:41,"0,955s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/form_Demo account                          _b80bac""))",Chrome 133.0.6943.126,,,20-02-2025 12:33:41,20-02-2025 12:33:41,"0,339s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 133.0.6943.126,,,20-02-2025 12:33:41,20-02-2025 12:33:41,"0,380s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 133.0.6943.126,,,20-02-2025 12:33:41,20-02-2025 12:33:42,"0,538s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/textarea_Comment_comment""), ""prueba git"")",Chrome 133.0.6943.126,,,20-02-2025 12:33:42,20-02-2025 12:33:43,"0,831s",PASSED
+closeBrowser(),Chrome 133.0.6943.126,,,20-02-2025 12:33:43,20-02-2025 12:33:43,"0,459s",PASSED

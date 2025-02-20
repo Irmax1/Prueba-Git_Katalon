@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 133.0.6943.126,,,20-02-2025 12:38:39,20-02-2025 12:39:25,"45,300s",PASSED
+,,,,,,,
+Test Cases/CP_GIT,Chrome 133.0.6943.126,,,20-02-2025 12:38:39,20-02-2025 12:39:25,"45,050s",PASSED
+"openBrowser("""")",Chrome 133.0.6943.126,,,20-02-2025 12:38:40,20-02-2025 12:39:15,"35,134s",PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 133.0.6943.126,,,20-02-2025 12:39:15,20-02-2025 12:39:17,"1,783s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 133.0.6943.126,,,20-02-2025 12:39:17,20-02-2025 12:39:18,"1,747s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 133.0.6943.126,,,20-02-2025 12:39:18,20-02-2025 12:39:19,"0,878s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 133.0.6943.126,,,20-02-2025 12:39:19,20-02-2025 12:39:21,"1,789s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/form_Demo account                          _b80bac""))",Chrome 133.0.6943.126,,,20-02-2025 12:39:21,20-02-2025 12:39:21,"0,391s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 133.0.6943.126,,,20-02-2025 12:39:21,20-02-2025 12:39:22,"0,455s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 133.0.6943.126,,,20-02-2025 12:39:22,20-02-2025 12:39:23,"0,762s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/textarea_Comment_comment""), ""prueba git"")",Chrome 133.0.6943.126,,,20-02-2025 12:39:23,20-02-2025 12:39:23,"0,839s",PASSED
+closeBrowser(),Chrome 133.0.6943.126,,,20-02-2025 12:39:23,20-02-2025 12:39:25,"1,018s",PASSED

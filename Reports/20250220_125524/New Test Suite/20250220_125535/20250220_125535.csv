@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Edge Chromium 133.0.3065.59,,,20-02-2025 12:55:40,20-02-2025 12:56:47,"1m - 6,970s",PASSED
+,,,,,,,
+Test Cases/CP_GIT,Edge Chromium 133.0.3065.59,,,20-02-2025 12:55:40,20-02-2025 12:56:47,"1m - 6,795s",PASSED
+"openBrowser("""")",Edge Chromium 133.0.3065.59,,,20-02-2025 12:55:41,20-02-2025 12:56:32,"51,365s",PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:32,20-02-2025 12:56:34,"1,947s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/a_Make Appointment""))",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:34,20-02-2025 12:56:37,"3,371s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:37,20-02-2025 12:56:38,"0,803s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:38,20-02-2025 12:56:40,"1,662s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/form_Demo account                          _b80bac""))",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:40,20-02-2025 12:56:40,"0,469s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:40,20-02-2025 12:56:41,"1,100s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:41,20-02-2025 12:56:42,"0,632s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/textarea_Comment_comment""), ""prueba git"")",Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:42,20-02-2025 12:56:43,"1,043s",PASSED
+closeBrowser(),Edge Chromium 133.0.3065.59,,,20-02-2025 12:56:43,20-02-2025 12:56:47,"4,159s",PASSED
