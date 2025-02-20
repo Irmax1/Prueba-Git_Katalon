@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite Integracion Kat,Chrome 133.0.6943.126,,,20-02-2025 16:47:08,20-02-2025 16:47:27,"19,394s",PASSED
+,,,,,,,
+Test Cases/CP_GIT,Chrome 133.0.6943.126,,,20-02-2025 16:47:08,20-02-2025 16:47:27,"18,984s",PASSED
+"openBrowser("""")",Chrome 133.0.6943.126,,,20-02-2025 16:47:09,20-02-2025 16:47:16,"7,711s",PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 133.0.6943.126,,,20-02-2025 16:47:16,20-02-2025 16:47:18,"2,083s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 133.0.6943.126,,,20-02-2025 16:47:18,20-02-2025 16:47:19,"0,974s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 133.0.6943.126,,,20-02-2025 16:47:19,20-02-2025 16:47:20,"0,920s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 133.0.6943.126,,,20-02-2025 16:47:20,20-02-2025 16:47:21,"0,995s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/form_Demo account                          _b80bac""))",Chrome 133.0.6943.126,,,20-02-2025 16:47:21,20-02-2025 16:47:22,"0,383s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 133.0.6943.126,,,20-02-2025 16:47:22,20-02-2025 16:47:22,"0,470s",PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",Chrome 133.0.6943.126,,,20-02-2025 16:47:22,20-02-2025 16:47:23,"0,668s",PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/textarea_Comment_comment""), ""prueba git"")",Chrome 133.0.6943.126,,,20-02-2025 16:47:23,20-02-2025 16:47:24,"0,930s",PASSED
+closeBrowser(),Chrome 133.0.6943.126,,,20-02-2025 16:47:24,20-02-2025 16:47:27,"3,224s",PASSED

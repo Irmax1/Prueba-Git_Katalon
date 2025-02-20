@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,20-02-2025 16:02:18,20-02-2025 16:02:33,"14,221s",FAILED
+,,,,,,,
+Test Cases/CP_GIT,,,,20-02-2025 16:02:19,20-02-2025 16:02:33,"13,462s",FAILED
+"openBrowser("""")",,,,20-02-2025 16:02:20,20-02-2025 16:02:33,"12,363s",FAILED

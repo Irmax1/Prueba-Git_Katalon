@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite Integracion Kat,,,,20-02-2025 16:42:25,20-02-2025 16:42:46,"21,649s",FAILED
+,,,,,,,
+Test Cases/CP_GIT,,,,20-02-2025 16:42:44,20-02-2025 16:42:46,"2,978s",FAILED
+"openBrowser("""")",,,,20-02-2025 16:42:44,20-02-2025 16:42:46,"2,956s",FAILED
