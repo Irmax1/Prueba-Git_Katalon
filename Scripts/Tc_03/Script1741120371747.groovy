@@ -19,7 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('www.yahoo.com')
-
-WebUI.closeBrowser()
+WebUI.navigateToUrl('www.goo45gle.com')
 

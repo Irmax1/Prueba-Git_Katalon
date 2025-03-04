@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SuiteFail" time="116.252" tests="1" failures="0" errors="0">
+   <testsuite name="SuiteFail" tests="1" failures="0" errors="0" time="116.252" skipped="0" timestamp="04-03-2025T15:24:13" hostname="Irma Infante - DESKTOP-2H1A566" id="Test Suites/SuiteFail">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Irma Infante\\git\\Prueba-Git_Katalon\\Reports\\20250304_152403\\SuiteFail\\20250304_152403"/>
+         <property name="logFiles" value="C:\\Users\\Irma Infante\\git\\Prueba-Git_Katalon\\Reports\\20250304_152403\\SuiteFail\\20250304_152403\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Irma Infante - DESKTOP-2H1A566"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 133.0.6943.142"/>
+         <property name="hostAddress" value="192.168.1.48"/>
+         <property name="sessionId" value="8851c6ff082e00f9b1a818f870470556"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC_02" time="115.763" classname="Test Cases/TC_02" status="PASSED">
+         <system-out><![CDATA[04-03-2025T15:24:13 - [TEST_CASE][PASSED] - Test Cases/TC_02: Test Cases/TC_02
+
+04-03-2025T15:24:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+04-03-2025T15:24:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+04-03-2025T15:24:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+04-03-2025T15:24:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+04-03-2025T15:24:20 - [TEST_STEP][PASSED] - navigateToUrl("www.yahoo.com"): Navigate to 'http://www.yahoo.com' successfully
+
+04-03-2025T15:26:09 - [MESSAGE][PASSED] - Navigate to 'http://www.yahoo.com' successfully
+
+04-03-2025T15:26:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+04-03-2025T15:26:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[04-03-2025T15:24:13 - [TEST_SUITE][PASSED] - SuiteFail: Test Cases/TC_02]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

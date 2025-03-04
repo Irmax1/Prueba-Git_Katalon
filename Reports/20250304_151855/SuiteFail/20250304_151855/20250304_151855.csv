@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SuiteFail,Chrome 133.0.6943.142,,,04-03-2025 15:19:42,04-03-2025 15:19:59,17.050s,FAILED
+,,,,,,,
+Test Cases/TC_02,Chrome 133.0.6943.142,,,04-03-2025 15:19:56,04-03-2025 15:19:59,3.273s,FAILED
+"openBrowser("""")",Chrome 133.0.6943.142,,,04-03-2025 15:19:56,04-03-2025 15:19:59,2.893s,PASSED
+"navigateToUrl(""""www.yahoo.com"""")",Chrome 133.0.6943.142,,,04-03-2025 15:19:59,04-03-2025 15:19:59,0.283s,FAILED

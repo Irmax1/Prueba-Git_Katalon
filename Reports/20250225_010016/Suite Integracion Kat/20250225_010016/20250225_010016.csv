@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite Integracion Kat,TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:00:22,25-02-2025 01:01:42,1m - 19.886s,PASSED
+,,,,,,,
+Test Cases/CP_GIT,TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:07,25-02-2025 01:01:42,34.386s,PASSED
+"openBrowser("""")",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:07,25-02-2025 01:01:32,24.817s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:32,25-02-2025 01:01:33,1.228s,PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/a_Make Appointment""))",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:33,25-02-2025 01:01:35,1.307s,PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:35,25-02-2025 01:01:36,0.904s,PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:36,25-02-2025 01:01:37,1.124s,PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/form_Demo account                          _b80bac""))",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:37,25-02-2025 01:01:37,0.731s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:37,25-02-2025 01:01:38,0.843s,PASSED
+"click(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/button_Login""))",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:38,25-02-2025 01:01:39,0.813s,PASSED
+"setText(findTestObject(""Object Repository/PAg_DEMO/Page_CURA Healthcare Service/textarea_Comment_comment""), ""prueba git"")",TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:39,25-02-2025 01:01:40,1.139s,PASSED
+closeBrowser(),TestCloud - Windows - Chrome 135.0.7023.0,,,25-02-2025 01:01:40,25-02-2025 01:01:42,1.458s,PASSED

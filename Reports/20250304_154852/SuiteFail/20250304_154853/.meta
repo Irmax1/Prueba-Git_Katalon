@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportEntity>
+   <description></description>
+   <name>20250304_154853</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;issueCollectionMap&quot;:{&quot;0&quot;:{&quot;testCaseId&quot;:&quot;Test Cases/TC_02&quot;,&quot;issues&quot;:[{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10002&quot;:[],&quot;customfield_10048&quot;:[],&quot;customfield_10039&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;EPIC_LINK_SHOULD_BE_USED&quot;,&quot;message&quot;:&quot;Para establecer un epic como principal, usa en su lugar el enlace de epic.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0000n:&quot;},&quot;status&quot;:{&quot;id&quot;:10001,&quot;description&quot;:&quot;El responsable está trabajando actualmente en esta incidencia.&quot;,&quot;iconUrl&quot;:&quot;https://irmax1.atlassian.net/&quot;,&quot;statusCategory&quot;:{&quot;id&quot;:4,&quot;key&quot;:&quot;indeterminate&quot;,&quot;colorName&quot;:&quot;yellow&quot;,&quot;self&quot;:&quot;https://irmax1.atlassian.net/rest/api/2/statuscategory/4&quot;,&quot;name&quot;:&quot;En curso&quot;},&quot;self&quot;:&quot;https://irmax1.atlassian.net/rest/api/2/status/10001&quot;,&quot;name&quot;:&quot;En curso&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://irmax1.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;SCRUM&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Proyecto Katalon Studio&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Historia KAtalaon&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;irmax1@yahoo.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Irma Infante&quot;,&quot;accountId&quot;:&quot;557058:fa198641-5ddd-490b-b154-d3bf86ae6855&quot;,&quot;self&quot;:&quot;https://irmax1.atlassian.net/rest/api/2/user?accountId\u003d557058%3Afa198641-5ddd-490b-b154-d3bf86ae6855&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://irmax1.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://irmax1.atlassian.net/rest/api/2/issue/SCRUM-3/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://irmax1.atlassian.net/rest/api/2/issue/10021&quot;,&quot;key&quot;:&quot;SCRUM-3&quot;,&quot;id&quot;:10021}]}}}</value>
+         </entry>
+      </properties>
+      <type>REPORT</type>
+   </integratedEntity>
+   <displayName>20250304_154853</displayName>
+</ReportEntity>

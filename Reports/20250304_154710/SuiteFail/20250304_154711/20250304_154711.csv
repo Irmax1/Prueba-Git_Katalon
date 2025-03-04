@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SuiteFail,Chrome 133.0.6943.142,,,04-03-2025 15:47:19,04-03-2025 15:48:04,45.776s,PASSED
+,,,,,,,
+Test Cases/TC_02,Chrome 133.0.6943.142,,,04-03-2025 15:47:19,04-03-2025 15:48:01,42.181s,PASSED
+"openBrowser("""")",Chrome 133.0.6943.142,,,04-03-2025 15:47:19,04-03-2025 15:47:24,5.023s,PASSED
+"navigateToUrl(""www.yahoo.com"")",Chrome 133.0.6943.142,,,04-03-2025 15:47:24,04-03-2025 15:48:00,36.012s,PASSED
+closeBrowser(),Chrome 133.0.6943.142,,,04-03-2025 15:48:00,04-03-2025 15:48:01,0.692s,PASSED
+,,,,,,,
+Test Cases/Tc_03,Chrome 133.0.6943.142,,,04-03-2025 15:48:01,04-03-2025 15:48:04,3.222s,PASSED
+"openBrowser("""")",Chrome 133.0.6943.142,,,04-03-2025 15:48:01,04-03-2025 15:48:03,1.592s,PASSED
+"navigateToUrl(""www.google.com"")",Chrome 133.0.6943.142,,,04-03-2025 15:48:03,04-03-2025 15:48:04,1.405s,PASSED
